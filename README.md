@@ -1,5 +1,7 @@
 # Прогнозирование оттока клиентов в компании Телеком
+Данный проект был выполнен в качестве финального проекта на курсе DataScience Bootcamp от Яндекс Практикума. Работа была выполнена самостоятельно с нуля, зачтена в рамках курса по достижении учебных целей. 
 
+## Описание проекта
 Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Для этого его сотрудники начнут предлагать промокоды и специальные условия всем, кто планирует отказаться от услуг связи. Чтобы заранее находить таких пользователей, «ТелеДому» нужна модель, которая будет предсказывать, разорвёт ли абонент договор. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и услугах. 
 
 ## Цель проекта  
@@ -29,6 +31,9 @@
 
 # Customer Churn Prediction in Telecom Company
 
+This project was completed as the final project for the Data Science Bootcamp course by Yandex Practicum. The work was done independently from scratch and was approved within the course upon achieving the learning objectives.
+
+## Project description
 The telecommunications operator "TeleDom" aims to combat customer churn. To achieve this, its employees will start offering promo codes and special conditions to anyone planning to cancel their communication services. In order to proactively identify such users, "TeleDom" needs a model that predicts whether a subscriber will terminate their contract. The operator's team has gathered personal data about some customers, as well as information about their tariffs and services.
 
 ## Project Objective  
